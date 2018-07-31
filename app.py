@@ -21,8 +21,7 @@ def index():
     db.child("STUDENTS").remove()
     return render_template("layout.html")
 
-if __name__ == "__main__":
-    app.run(debug=True)
+
 
 @app.route("/about")
 def about():
