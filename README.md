@@ -1,3 +1,3 @@
 # qrproxy
 
-for more info, visit [this](www.tarunkurella.tk/qrproxy)
+for more info, visit [here](http://www.tarunkurella.tk/qrproxy/)
