@@ -2,7 +2,7 @@
 
 [![built with flutter](https://img.shields.io/badge/built%20with-flutter-blue.svg?style=flat-square)](https://www.flutter.io)
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg?style=flat-square)](https://www.python.org/)
-[![powered by firebase](https://img.shields.io/badge/powered%20by-firebase-orange.svg?style=flat-square)](https://www.python.org/)
+[![powered by firebase](https://img.shields.io/badge/powered%20by-firebase-orange.svg?style=flat-square)](https://firebase.google.com/)
 
 for more info, visit [here](http://www.tarunkurella.tk/qrproxy/)
 
