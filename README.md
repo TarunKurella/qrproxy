@@ -1,4 +1,5 @@
 # qrproxy
+![](https://s2.gifyu.com/images/ggg033abd507be34d58.gif)
 
 for more info, visit [here](http://www.tarunkurella.tk/qrproxy/)
 
@@ -15,7 +16,7 @@ $ cd qrproxy/
 $ pip install -r requirements.txt
 $ python3 app.py
 ```
-![](https://s2.gifyu.com/images/ggg033abd507be34d58.gif)
+
 #### 2. Setup the firebase app
 
 1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
