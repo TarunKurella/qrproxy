@@ -15,7 +15,7 @@ $ cd qrproxy/
 $ pip install -r requirements.txt
 $ python3 app.py
 ```
-
+![](blob:https://imgur.com/da9012aa-f86a-4f05-83d5-99379d127ba5)
 #### 2. Setup the firebase app
 
 1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
@@ -25,7 +25,7 @@ $ python3 app.py
 * Click "Authentication" in the left-hand menu
 * Click the "sign-in method" tab
 * Click "Google" and enable it
-![](https://imgur.com/da9012aa-f86a-4f05-83d5-99379d127ba5)
+
 
 #### 3. Run the app
 ```sh
