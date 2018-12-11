@@ -16,7 +16,7 @@ for more info, visit [here](http://www.tarunkurella.tk/qrproxy/)
 ```sh
 $ git clone https://github.com/TarunKurella/qrproxy.git
 $ cd qrproxy/
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 $ python3 app.py
 ```
 
