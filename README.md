@@ -1,5 +1,5 @@
 # qrproxy
-![](https://s2.gifyu.com/images/ggg033abd507be34d58.gif)
+
 
 for more info, visit [here](http://www.tarunkurella.tk/qrproxy/)
 
@@ -34,14 +34,17 @@ $ python3 app.py
 $ python3 app.py
 ```
 
+
+![](https://s2.gifyu.com/images/ggg033abd507be34d58.gif)
+
 # What's Next?
- - [x] Notificaitons for likes, comments, follows, etc
- - [ ] Improve Caching of Profiles, Images, Etc.
- - [ ] Better post creation, add filters to your image
- - [ ] Custom Camera Implementation
- - [ ] Animations (heart when liking image)
- - [ ] Firebase Security Rules
- - [ ] Delete Posts
- - [ ] Registration without Google SignIn
+ - [x] Creating WebApp
+ - [x] Creating Mobile App
+ - [x] Setting up working database
+ - [x] Connecting them both
+ - [ ] Improving UX of MobileApp
+ - [ ] Adding facial verification to mobile app ( to prevent friends from scanning qr)
+ - [ ] designing schema for database
+ 
 
 
