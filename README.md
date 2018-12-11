@@ -22,13 +22,12 @@ $ python3 app.py
 
 #### 2. Setup the firebase app
 
-1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
-2. Once your Firebase instance is created, you'll need to enable anonymous authentication.
+* You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
+* Upon opening your project's overview pannel, below the title, click on add platform and select web
 
-* Go to the Firebase Console for your new instance.
-* Click "Authentication" in the left-hand menu
-* Click the "sign-in method" tab
-* Click "Google" and enable it
+* Copy the config variable.
+* Replace it in app.py and route.py
+
 
 
 #### 3. Run the app
