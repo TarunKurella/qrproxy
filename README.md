@@ -51,5 +51,7 @@ $ python3 app.py
  - [ ] Adding facial verification to mobile app ( to prevent friends from scanning qr)
  - [ ] designing schema for database
  
+ ### sourcecode of flutter app will be kept soon
+ 
 
 
