@@ -4,12 +4,12 @@ import pyrebase
 import random
 import string
 config = {
-    'apiKey': "AIzaSyBUgEY5JGC-HyfOQs7bKxLi7cZf0GzDTSE",
-    'authDomain': "flutter-intro-setup-53c1f.firebaseapp.com",
-    'databaseURL': "https://flutter-intro-setup-53c1f.firebaseio.com",
-    'projectId': "flutter-intro-setup-53c1f",
-    'storageBucket': "flutter-intro-setup-53c1f.appspot.com",
-    'messagingSenderId': "188931760199"
+    'apiKey': "your key",
+    'authDomain': "your domain",
+    'databaseURL': "your url",
+    'projectId': "your id",
+    'storageBucket': "your whatever",
+    'messagingSenderId': "your whatever"
   }
 firebase = pyrebase.initialize_app(config)
 db = firebase.database()
